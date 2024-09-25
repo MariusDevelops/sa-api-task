@@ -1,0 +1,13 @@
+INSERT INTO books (title, author, "year", rating) VALUES ('The Hobbit', 'J.R.R. Tolkien', 1937, 5.0);
+INSERT INTO books (title, author, "year", rating) VALUES ('1984', 'George Orwell', 1949, 4.8);
+INSERT INTO books (title, author, "year", rating) VALUES ('Dune', 'Frank Herbert', 1965, 4.9);
+INSERT INTO books (title, author, "year", rating) VALUES ('The Fellowship of the Ring', 'J.R.R. Tolkien', 1954, 5.0);
+INSERT INTO books (title, author, "year", rating) VALUES ('Brave New World', 'Aldous Huxley', 1932, 4.7);
+INSERT INTO books (title, author, "year", rating) VALUES ('The Two Towers', 'J.R.R. Tolkien', 1954, 5.0);
+INSERT INTO books (title, author, "year", rating) VALUES ('Fahrenheit 451', 'Ray Bradbury', 1953, 4.7);
+INSERT INTO books (title, author, "year", rating) VALUES ('The Catcher in the Rye', 'J.D. Salinger', 1951, 4.4);
+INSERT INTO books (title, author, "year", rating) VALUES ('Animal Farm', 'George Orwell', 1945, 4.8);
+INSERT INTO books (title, author, "year", rating) VALUES ('Neuromancer', 'William Gibson', 1984, 4.6);
+INSERT INTO books (title, author, "year", rating) VALUES ('The Left Hand of Darkness', 'Ursula K. Le Guin', 1969, 4.9);
+INSERT INTO books (title, author, "year", rating) VALUES ('Slaughterhouse-Five', 'Kurt Vonnegut', 1969, 4.5);
+INSERT INTO books (title, author, "year", rating) VALUES ('The Road', 'Cormac McCarthy', 2006, 4.3);
